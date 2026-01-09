@@ -1,0 +1,7 @@
+What is Raw Data in a Cryptocurrencies Dashboard?
+Raw data in a cryptocurrencies dashboard is the original,
+unprocessed data collected directly from cryptocurrency sources 
+before any cleaning, filtering, or visualization is done.
+
+This data shows the actual market values of cryptocurrencies 
+exactly as received from exchanges or APIs.

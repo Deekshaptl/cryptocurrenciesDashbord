@@ -1,0 +1,4 @@
+Raw cleaned data in a cryptocurrencies dashboard is the 
+original cryptocurrency raw data after it has been cleaned, corrected, and prepared for analysis and visualization.
+
+It is not fully transformed, but it is error-free and usable

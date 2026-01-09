@@ -1,0 +1,7 @@
+Result data in a cryptocurrencies dashboard is the final output or insights 
+obtained after analyzing reported data.
+It represents the conclusions, findings, and performance results shown 
+to users for decision-making.
+
+👉 In short:
+Result Data = What we learn from the dashboard
