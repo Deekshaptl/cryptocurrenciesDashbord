@@ -213,9 +213,9 @@ This project is licensed under the [LICENSE](LICENSE) file. See the LICENSE file
 
 For questions, suggestions, or feedback, please reach out:
 
-- **GitHub Issues**: [Create an issue](https://github.com/yourusername/cryptocurrenciesDashbord/issues)
-- **Email**: [your.email@example.com]
-- **Author**: [Your Name]
+- **GitHub Issues**: [Create an issue](https://github.com/Deekshaptl/cryptocurrenciesDashbord/issues)
+- **Email**: deekshapatel1237@gmail.com
+- **Author**: Deeekdha Patel
 
 ---
 
